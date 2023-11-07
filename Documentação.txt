@@ -1,0 +1,18 @@
+- Baixado e instalado a últiam versão do python;
+- Baixado e instalado o git
+- Criado a pasta "Telegram_bot" dentro do disco /C;
+- Copiado código "Bot.py" e o resto dos arquivos que o professor disponibilizou no telegra;
+- Criado e gerado código do bot através do "BotFather" pelo Telegram
+- Teste para verificar o que precisa ser instalado;
+- Criado ambiente virtual "Telegram_bot"
+- Instalado a biblioteca "telepot"
+- Erro ao tentar instalar a biblioteca "time"
+- Instalado alguns pacotes que haviam faltando;
+- Testado novamente se havia falta de algum pacote a ser instalado
+- Erro ao inicializar o bot por conta de que não havia a biblioteca "time" instalada
+- Tento instaldar novamente a biblioteca "time", porém havia um erro do windows
+- Com a ajuda a IA, que auxiliou na instalação de outros paoctes do python
+- Instalado pacotes sugeridos pela IA e Testado
+- Ainda percistiu o mesmo erro
+- Tentei achar uma forma de solucionar esse problema de instalção da biblioteca "time", mas sem sucesso
+
