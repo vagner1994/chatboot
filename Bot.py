@@ -11,7 +11,7 @@ def principal(mgs):
     if mensagem =='oi':
         bot.sendMessage(chat_id, 'Olá Mundo!')
 
-bot = telepot.Bot('6916612455:AAHTY5qvPFngEi0g3uWFrLgSRrqlrPSoPfw')
+bot = telepot.Bot('6557010890:AAG1X5OCyP2wMHRnbbN_lQEvtPErZvr5u6g')
 
 bot.message_loop(principal)
 
